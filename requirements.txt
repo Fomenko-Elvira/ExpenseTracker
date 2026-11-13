@@ -1,0 +1,4 @@
+kivy>=2.3.0
+matplotlib
+kivy-garden.matplotlib
+requests

@@ -1,0 +1,9 @@
+.idea/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+transactions.json
+transactions_backup.json
